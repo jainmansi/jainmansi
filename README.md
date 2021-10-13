@@ -10,7 +10,7 @@ I am a full-stack Software Developer. I like to code, travel, read, write, cook,
 - 📫 How to reach me: jainmansi@outlook.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I was awarded best Ethical Hacker in central India.
-- <a href="https://jainmansi.com/assets/resume/MansiJain.pdf" target="_blank">My Resume</a>
+- 📝 <a href="https://jainmansi.com/assets/resume/MansiJain.pdf" target="_blank">My Resume</a>
 <!--
 **jainmansi/jainmansi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
