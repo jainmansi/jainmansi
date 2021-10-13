@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 -->
 
 
-Glad to see you here..  ![visitors](https://profile-counter.glitch.me/jainmansi/count.svg)
+Glad to see you here..  ![visitors](https://visitor-badge.glitch.me/badge?page_id=jainmansi.visitor-badge)
