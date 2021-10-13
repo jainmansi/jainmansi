@@ -8,9 +8,9 @@
 
 #### Glad to see you here.. ![visitors](https://visitor-badge.glitch.me/badge?page_id=jainmansi.visitor-badge)
 
-I am a full-stack Software Developer. I like to code, travel, read, write, cook, travel and play ping-pong.
+<img align="right" alt="GIF" src="https://github.com/jainmansi/jainmansi/blob/main/assets/my-logo.png" width="200" height="200" />
 
-<img align="right" alt="GIF" src="https://github.com/jainmansi/jainmansi/blob/main/assets/my-logo.png" width="300" height="300" />
+I am a full-stack Software Developer. I like to code, travel, read, write, cook, travel and play ping-pong.
 
 - 🔭 I’m currently working on a ReactJS Web Application
 - 🌱 I’m currently learning React Native
