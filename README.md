@@ -1,4 +1,7 @@
-### Hi, I'm <a href="https://jainmansi.com" target="_blank">Mansi Jain</a> 👋
+[![Mansi's GitHub Banner](https://github.com/jainmansi/jainmansi/blob/main/assets/2.png)](https://jainmansi.com)
+
+
+### Welcome to my github profile 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mansijain9/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://jainmansi.com)
