@@ -1,8 +1,15 @@
-### Hi, I'm Mansi Jain 👋
+### Hi, I'm <a href="https://jainmansi.com" target="_blank">Mansi Jain</a> 👋
 
 
 #### Glad to see you here.. ![visitors](https://visitor-badge.glitch.me/badge?page_id=jainmansi.visitor-badge)
 
+I am a full-stack Software Developer. I like to code, travel, read, write, cook, travel and play ping-pong.
+
+- 🔭 I’m currently working on a ReactJS Web Application
+- 🌱 I’m currently learning React Native
+- 📫 How to reach me: jainmansi@outlook.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I was awarded best Ethical Hacker in central India.
 <!--
 **jainmansi/jainmansi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
