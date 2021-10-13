@@ -10,7 +10,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/jainmansi/jainmansi/blob/main/assets/my-logo.png" width="200" height="200" />
 
-I am a full-stack Software Developer. I like to code, travel, read, write, cook, travel and play ping-pong.
+I am a senior full-stack software developer. I like to code, travel, read, write, cook, travel and play ping-pong.
 
 - 🔭 I’m currently working on a ReactJS Web Application
 - 🌱 I’m currently learning React Native
@@ -18,20 +18,19 @@ I am a full-stack Software Developer. I like to code, travel, read, write, cook,
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I was awarded best Ethical Hacker in central India.
 - 📝 <a href="https://jainmansi.com/assets/resume/MansiJain.pdf" target="_blank">My Resume</a>
-<!--
-**jainmansi/jainmansi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 💼 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Scala-informational?style=flat&logo=Scala&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Spark-informational?style=flat&logo=Scala&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-ElasticSearch-informational?style=flat&logo=ElasticSearch&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 
 
 📈 **My GitHub Stats:**
