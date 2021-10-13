@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jainmansi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jainma nsi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainmansi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
 
 Glad to see you here..  ![visitors](https://visitor-badge.glitch.me/badge?page_id=jainmansi.visitor-badge)
