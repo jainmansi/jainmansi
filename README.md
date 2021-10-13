@@ -11,7 +11,7 @@
 
 #### Glad to see you here.. ![visitors](https://visitor-badge.glitch.me/badge?page_id=jainmansi.visitor-badge)
 
-<img align="right" alt="Mansi's Logo" src="https://github.com/jainmansi/jainmansi/blob/main/assets/my-logo.png" width="200" height="200" />
+<!-- <img align="right" alt="Mansi's Logo" src="https://github.com/jainmansi/jainmansi/blob/main/assets/my-logo.png" width="200" height="200" /> -->
 
 I am a senior full-stack software developer. I like to code, travel, read, write, cook, travel and play ping-pong.
 
