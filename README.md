@@ -1,4 +1,7 @@
-### Hi, I'm <a href="https://jainmansi.com" target="_blank">Mansi Jain</a> 👋
+<img align="center" alt="Mansi's GITHUB Banner" src="https://github.com/jainmansi/jainmansi/blob/main/assets/2.png" width="100%" height="250" />
+
+
+### Welcome to my github profile 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mansijain9/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://jainmansi.com)
@@ -8,7 +11,7 @@
 
 #### Glad to see you here.. ![visitors](https://visitor-badge.glitch.me/badge?page_id=jainmansi.visitor-badge)
 
-<img align="right" alt="GIF" src="https://github.com/jainmansi/jainmansi/blob/main/assets/my-logo.png" width="200" height="200" />
+<img align="right" alt="Mansi's Logo" src="https://github.com/jainmansi/jainmansi/blob/main/assets/my-logo.png" width="200" height="200" />
 
 I am a senior full-stack software developer. I like to code, travel, read, write, cook, travel and play ping-pong.
 
