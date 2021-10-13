@@ -1,4 +1,4 @@
-<img align="center" alt="Mansi's GITHUB Banner" src="https://github.com/jainmansi/jainmansi/blob/main/assets/2.png" width="100%" height="250" />
+<img alt="Mansi's GITHUB Banner" src="https://github.com/jainmansi/jainmansi/blob/main/assets/2.png" width="100%" />
 
 
 ### Welcome to my github profile 👋
