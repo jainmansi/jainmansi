@@ -1,4 +1,4 @@
-[![Mansi's GitHub Banner](https://github.com/jainmansi/jainmansi/blob/main/assets/2.png)](https://jainmansi.com)
+<img align="center" alt="Mansi's GITHUB Banner" src="https://github.com/jainmansi/jainmansi/blob/main/assets/2.png" width="100%" height="250" />
 
 
 ### Welcome to my github profile 👋
@@ -11,7 +11,7 @@
 
 #### Glad to see you here.. ![visitors](https://visitor-badge.glitch.me/badge?page_id=jainmansi.visitor-badge)
 
-<img align="right" alt="GIF" src="https://github.com/jainmansi/jainmansi/blob/main/assets/my-logo.png" width="200" height="200" />
+<img align="right" alt="Mansi's Logo" src="https://github.com/jainmansi/jainmansi/blob/main/assets/my-logo.png" width="200" height="200" />
 
 I am a senior full-stack software developer. I like to code, travel, read, write, cook, travel and play ping-pong.
 
