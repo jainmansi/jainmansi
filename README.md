@@ -1,6 +1,3 @@
-<img alt="Mansi's GITHUB Banner" src="https://github.com/jainmansi/jainmansi/blob/main/assets/2.png" width="100%" />
-
-
 ### Welcome to my github profile 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mansijain9/)
