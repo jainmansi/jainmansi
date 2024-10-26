@@ -15,7 +15,6 @@ I am a staff full-stack software developer. I like to code, travel, read, write,
 - 📫 How to reach me: jainmansi@outlook.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I was awarded best Ethical Hacker in central India.
-- 📝 <a href="https://jainmansi.com/assets/resume/MansiJain.pdf" target="_blank">My Resume</a>
 
 ## 💼 Skills
 
